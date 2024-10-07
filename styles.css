@@ -29,10 +29,8 @@ body {
   .container {
     padding: 2px 16px;
   }
+ 
 
-.container {
-    text-align: center;
-}
 
 input {
     padding: 10px;

@@ -8,7 +8,7 @@
 //fetch("https://api.thecatapi.com/v1/images/search")
 //.then(res => res.json())
 //.then(data => console.log(data))
-fetch("https://api.thecatapi.com/v1/images/search")
+fetch("https://api.thecatapi.com/v1/images/search)
 .then(response => response.json())
 .then(data => console.log(data))
 .catch(error => console.error('Error:', error));
